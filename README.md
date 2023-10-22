@@ -30,3 +30,5 @@ https://colab.research.google.com/drive/1TCSkMjZEIKzW_IutwcgI8swmw-Mr9KT0
 https://colab.research.google.com/drive/1dltZ3G-Mqq3gbSERswqW97KEeroXa1f1
 <h6 align="left">ML_P10_KMeans_iris_dataset:</h6>
 https://colab.research.google.com/drive/1UXrsUQYeNVjIba7v8HruFyD4Y-oxZVOB
+<h6 align="left">ML_P11_NaiveBayes_wine_dataset:</h6>
+https://colab.research.google.com/drive/1GEQfbQeLBUUpEQLE5y13VB5oSKscDeTg

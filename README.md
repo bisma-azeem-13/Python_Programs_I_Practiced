@@ -32,3 +32,5 @@ https://colab.research.google.com/drive/1dltZ3G-Mqq3gbSERswqW97KEeroXa1f1
 https://colab.research.google.com/drive/1UXrsUQYeNVjIba7v8HruFyD4Y-oxZVOB
 <h6 align="left">ML_P11_NaiveBayes_wine_dataset:</h6>
 https://colab.research.google.com/drive/1GEQfbQeLBUUpEQLE5y13VB5oSKscDeTg
+<h6 align="left">ML_P12_NaiveBayes_Email_Spam_detection:</h6>
+https://colab.research.google.com/drive/1-pWyS-BV1GiMBYlyXxmvmMkx_xKoxKFn#scrollTo=xCNGGGbxjFPn

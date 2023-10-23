@@ -34,3 +34,5 @@ https://colab.research.google.com/drive/1UXrsUQYeNVjIba7v8HruFyD4Y-oxZVOB
 https://colab.research.google.com/drive/1GEQfbQeLBUUpEQLE5y13VB5oSKscDeTg
 <h6 align="left">ML_P12_NaiveBayes_Email_Spam_detection:</h6>
 https://colab.research.google.com/drive/1-pWyS-BV1GiMBYlyXxmvmMkx_xKoxKFn#scrollTo=xCNGGGbxjFPn
+<h6 align="left">ML_P13_GirdSearchCV_best_model_estimator:</h6>
+https://colab.research.google.com/drive/1JZhNa895HuA_JjoWzQ1LXTlESE2vgDmX

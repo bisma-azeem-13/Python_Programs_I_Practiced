@@ -36,3 +36,5 @@ https://colab.research.google.com/drive/1GEQfbQeLBUUpEQLE5y13VB5oSKscDeTg
 https://colab.research.google.com/drive/1-pWyS-BV1GiMBYlyXxmvmMkx_xKoxKFn#scrollTo=xCNGGGbxjFPn
 <h6 align="left">ML_P13_GirdSearchCV_best_model_estimator:</h6>
 https://colab.research.google.com/drive/1JZhNa895HuA_JjoWzQ1LXTlESE2vgDmX
+<h6 align="left">ML_P14_KNN_digits_dataset:</h6>
+https://colab.research.google.com/drive/1farhhvwfSHItTZ4FuzdiSLQTucwTg2Y9

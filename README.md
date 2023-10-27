@@ -38,3 +38,5 @@ https://colab.research.google.com/drive/1-pWyS-BV1GiMBYlyXxmvmMkx_xKoxKFn#scroll
 https://colab.research.google.com/drive/1JZhNa895HuA_JjoWzQ1LXTlESE2vgDmX
 <h6 align="left">ML_P14_KNN_digits_dataset:</h6>
 https://colab.research.google.com/drive/1farhhvwfSHItTZ4FuzdiSLQTucwTg2Y9
+<h6 align="left">ML_P15_PCA_heart_disease_dataset:</h6>
+https://colab.research.google.com/drive/1L8bJCLbyPgtMrtDsqews8uTbCPzHCzQq

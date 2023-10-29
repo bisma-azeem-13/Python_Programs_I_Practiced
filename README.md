@@ -40,3 +40,5 @@ https://colab.research.google.com/drive/1JZhNa895HuA_JjoWzQ1LXTlESE2vgDmX
 https://colab.research.google.com/drive/1farhhvwfSHItTZ4FuzdiSLQTucwTg2Y9
 <h6 align="left">ML_P15_PCA_heart_disease_dataset:</h6>
 https://colab.research.google.com/drive/1L8bJCLbyPgtMrtDsqews8uTbCPzHCzQq
+<h6 align="left">ML_P116_Bagging_heart_disease_dataset:</h6>
+https://colab.research.google.com/drive/1gfB8J-O29zg4kf7PY0gI7tcuFYyDrWch

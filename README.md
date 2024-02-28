@@ -1,5 +1,14 @@
 # Python_Programs_I_Practiced
 # Practice_programs.py
+
+==> British Airways - Data Science :
+1. Scraping Reviews from the web, cleaning data, and analyses of Data:
+   I wrote the Python code in Google Colab, cleaned data in Excel, and made a ppt. Here is the link to my code: 
+   https://colab.research.google.com/drive/1z7FtTBcSPDMCHWGVnydEr5cHDQdoJY69#scrollTo=pbZ4bCP-EtoN
+   As for my presentation, you can visit my Linkedin profile.
+2. Machine Learning model for predicting customer behavior using Random Forest:
+   https://colab.research.google.com/drive/17VTQ8hz4J_ruKnCoGE-A2vJyiXOoabr0
+
 <h6 align="left">Numpy_Library:</h6>
 https://colab.research.google.com/drive/1vS2oO2aItA_oep-xMYv3AVhkHZoPAuYR
 <h6 align="left">Pandas_Library:</h6>

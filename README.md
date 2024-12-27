@@ -57,3 +57,5 @@ https://colab.research.google.com/drive/17VTQ8hz4J_ruKnCoGE-A2vJyiXOoabr0?usp=sh
 https://colab.research.google.com/drive/1ciPO_PZrE_qMDBIbup8vnwLHMUwFusZR?usp=sharing
 <h6 align="left">TensorFlow:</h6>
 https://colab.research.google.com/drive/1cRVqndJWvYSQSn4d6q4JWcEB21woG4FY?usp=sharing
+<h6 align="left">HuggingFace-DALLE:</h6>
+https://colab.research.google.com/drive/1ARpYueS-ccPtpqGvx_-580TAa87QNMSM?usp=sharing

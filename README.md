@@ -53,3 +53,7 @@ https://colab.research.google.com/drive/1L8bJCLbyPgtMrtDsqews8uTbCPzHCzQq?usp=sh
 https://colab.research.google.com/drive/1gfB8J-O29zg4kf7PY0gI7tcuFYyDrWch?usp=sharing
 <h6 align="left">ML_British_Airways_Customer_behaviour_via_RandomForest:</h6>
 https://colab.research.google.com/drive/17VTQ8hz4J_ruKnCoGE-A2vJyiXOoabr0?usp=sharing
+<h6 align="left">PyTorch:</h6>
+https://colab.research.google.com/drive/1ciPO_PZrE_qMDBIbup8vnwLHMUwFusZR?usp=sharing
+<h6 align="left">TensorFlow:</h6>
+https://colab.research.google.com/drive/1cRVqndJWvYSQSn4d6q4JWcEB21woG4FY?usp=sharing
